@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T14:30:40.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="lVCx_VYyl_7xRwr09k1v" version="13.8.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-10-27T14:33:27.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="yZft4MADW9mjrxDbK8u3" version="13.8.0" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="AGGREGATE">
-    <mxGraphModel dx="1422" dy="1845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry width="83" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TtuSKVxDWewor-fG6CV6-34" value="TBL_BD_PARTNER_EXCELLENTIA_AGGREGATE_DETAILS" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;overflow=hidden;" parent="1" vertex="1">
-          <mxGeometry x="210" y="-1010" width="380" height="330" as="geometry" />
+          <mxGeometry x="260" y="-890" width="380" height="330" as="geometry" />
         </mxCell>
         <mxCell id="TtuSKVxDWewor-fG6CV6-38" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TtuSKVxDWewor-fG6CV6-34" vertex="1">
           <mxGeometry y="30" width="380" height="30" as="geometry" />
@@ -190,7 +190,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mX7cn2R8EMMjxYBjq6Nl" name="LEAD AGGREGATE">
-    <mxGraphModel dx="1422" dy="1845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ECVf57MszHEt_kpJzB54-0" />
         <mxCell id="ECVf57MszHEt_kpJzB54-1" parent="ECVf57MszHEt_kpJzB54-0" />
